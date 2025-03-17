@@ -76,8 +76,8 @@ button {
 }
 
 #timer {
-  width: min(350px, 90vh);
-  min-width: 350px;
+  width: min(300px, 90vh);
+  min-width: 300px;
   height: 200px;
   display: flex;
   flex-direction: column;

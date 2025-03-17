@@ -80,9 +80,8 @@ export default function App() {
     clear,
     timeCondition,
     isTimeStarted,
-    setIsTimeStarted,
-    time,
     setTime,
+    time,
   };
 
   return (
@@ -90,7 +89,11 @@ export default function App() {
       <Button
         label=""
         id="come-back-button"
-        onClick={() => setSelectedTool('')}
+        onClick={() => {
+          clear();
+          handleEnd();
+          setSelectedTool('');
+        }}
         className={!selectedTool ? 'hidden' : undefined}
       >
         &lt;
