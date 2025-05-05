@@ -1,54 +1,54 @@
 # 🕒 Clock
 
-Minimalistyczna aplikacja zegara stworzona przy użyciu React i Vite. Projekt ten demonstruje, jak szybko i efektywnie budować interaktywne aplikacje webowe z wykorzystaniem nowoczesnych narzędzi frontendowych.
+A minimalist clock application built using React and Vite. This project demonstrates how to quickly and efficiently build interactive web applications using modern tools.
 
-## ⚙️ Technologie
+## ⚙️ Technologies
 
-- [React](https://reactjs.org/) – biblioteka do budowy interfejsów użytkownika
-- [Vite](https://vitejs.dev/) – szybki bundler i dev server
-- [ESLint](https://eslint.org/) – narzędzie do analizy statycznej kodu
-- [JavaScript](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
+- [React](https://reactjs.org/) – A library for building user interfaces  
+- [Vite](https://vitejs.dev/) – A fast bundler and development server  
+- [ESLint](https://eslint.org/) – A tool for static code analysis  
+- [JavaScript](https://developer.mozilla.org/en-US/docs/Web/JavaScript)  
 
-## 🚀 Rozpoczęcie
+## 🚀 Getting Started
 
-Aby uruchomić projekt lokalnie:
+To run the project locally:
 
 ```bash
-# Klonowanie repozytorium
+# Clone the repository
 git clone https://github.com/konradxmalinowski/Clock.git
 cd Clock
 
-# Instalacja zależności
+# Install dependencies
 npm install
 
-# Uruchomienie serwera deweloperskiego
+# Start the development server
 npm run dev
 ```
 
-Aplikacja będzie dostępna pod adresem: [http://localhost:5173](http://localhost:5173)
+The application will be available at: [http://localhost:5173](http://localhost:5173)
 
-## 📁 Struktura projektu
+## 📁 Project Structure
 
 ```
 Clock/
-├── public/             # Statyczne zasoby
-├── src/                # Główne źródła aplikacji
-│   └── ...             # Komponenty React
-├── index.html          # Główny plik HTML
-├── vite.config.js      # Konfiguracja Vite
-├── package.json        # Zależności i skrypty
-└── README.md           # Dokumentacja projektu
+├── public/             # Static assets
+├── src/                # Main application sources
+│   └── ...             # React components
+├── index.html          # Main HTML file
+├── vite.config.js      # Vite configuration
+├── package.json        # Dependencies and scripts
+└── README.md           # Project documentation
 ```
 
-## ✅ Status projektu
+## ✅ Project Status
 
-Projekt jest w fazie eksperymentalnej. Główne funkcjonalności zegara są zaimplementowane, ale planowane są dalsze usprawnienia i nowe funkcje.
+The project is in an experimental phase. The core clock functionalities are implemented, but further improvements and new features are planned.
 
-## 🧠 Inspiracja
+## 🧠 Inspiration
 
-Ten projekt służy jako baza do nauki i eksperymentowania z React i Vite. Jest idealnym punktem wyjścia dla osób chcących zrozumieć, jak szybko tworzyć aplikacje webowe przy użyciu nowoczesnych narzędzi.
+This project serves as a base for learning and experimenting with React and Vite. It is an ideal starting point for those who want to understand how to quickly create web applications using modern tools.
 
-## 📄 Licencja
+## 📄 License
 
 ```
 MIT License
