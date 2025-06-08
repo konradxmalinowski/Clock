@@ -40,13 +40,6 @@ Clock/
 └── README.md           # Project documentation
 ```
 
-## Contact
-
-If you have any questions, feel free to contact me:
-
-- Email: [malinowski.konrad45@gmail.com](malinowski.konrad45@gmail.com)
-
----
 
 ## License
 
@@ -73,3 +66,12 @@ LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
 OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
 SOFTWARE.
 ```
+
+
+## Contact
+
+If you have any questions, feel free to contact me:
+
+- Email: [malinowski.konrad45@gmail.com](malinowski.konrad45@gmail.com)
+
+---
