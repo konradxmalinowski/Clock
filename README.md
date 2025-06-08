@@ -2,14 +2,14 @@
 
 A minimalist clock application built using React and Vite. This project demonstrates how to quickly and efficiently build interactive web applications using modern tools.
 
-## ⚙️ Technologies
+## Technologies
 
 - [React](https://reactjs.org/) – A library for building user interfaces  
 - [Vite](https://vitejs.dev/) – A fast bundler and development server  
 - [ESLint](https://eslint.org/) – A tool for static code analysis  
 - [JavaScript](https://developer.mozilla.org/en-US/docs/Web/JavaScript)  
 
-## 🚀 Getting Started
+## Getting Started
 
 To run the project locally:
 
@@ -27,7 +27,7 @@ npm run dev
 
 The application will be available at: [http://localhost:5173](http://localhost:5173)
 
-## 📁 Project Structure
+## Project Structure
 
 ```
 Clock/
@@ -40,15 +40,15 @@ Clock/
 └── README.md           # Project documentation
 ```
 
-## ✅ Project Status
+## Project Status
 
 The project is in an experimental phase. The core clock functionalities are implemented, but further improvements and new features are planned.
 
-## 🧠 Inspiration
+## Inspiration
 
 This project serves as a base for learning and experimenting with React and Vite. It is an ideal starting point for those who want to understand how to quickly create web applications using modern tools.
 
-## 📄 License
+## License
 
 ```
 MIT License
