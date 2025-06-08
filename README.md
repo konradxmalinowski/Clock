@@ -40,13 +40,13 @@ Clock/
 └── README.md           # Project documentation
 ```
 
-## Project Status
+## Contact
 
-The project is in an experimental phase. The core clock functionalities are implemented, but further improvements and new features are planned.
+If you have any questions, feel free to contact me:
 
-## Inspiration
+- Email: [malinowski.konrad45@gmail.com](malinowski.konrad45@gmail.com)
 
-This project serves as a base for learning and experimenting with React and Vite. It is an ideal starting point for those who want to understand how to quickly create web applications using modern tools.
+---
 
 ## License
 
