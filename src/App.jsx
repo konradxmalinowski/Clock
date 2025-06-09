@@ -55,8 +55,8 @@ export default function App() {
     const updatedTime = [...time];
 
     if (updatedTime[0] === 0 && updatedTime[1] === 0 && updatedTime[2] === 0) {
-      clear();
       handleEnd();
+      alert('Time is up!');
       return [0, 0, 0];
     }
 

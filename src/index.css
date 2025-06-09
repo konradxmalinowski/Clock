@@ -30,6 +30,10 @@ body,
   color: whitesmoke;
 }
 
+h1 {
+  text-align: center;
+}
+
 h2 {
   color: var(--clr-100);
   font-size: 40px;
@@ -76,7 +80,7 @@ button {
 }
 
 #timer {
-  width: min(300px, 90vh);
+  width: 100%;
   min-width: 300px;
   height: 200px;
   display: flex;
@@ -112,13 +116,15 @@ button {
   width: 100%;
   margin-top: 30px;
   background-color: transparent;
-  border: none;
+  border: 1px solid var(--clr-200);
+  border-radius: 5px;
   color: whitesmoke;
   font-size: 40px;
   font-weight: 700;
   text-align: center;
   padding-left: 10px;
   outline: none;
+  overflow-y: auto;
 
   &:focus {
     border: 1px solid var(--btn-clr);
@@ -144,6 +150,10 @@ button {
   align-items: center;
   justify-content: center;
   row-gap: 20px;
+  padding: 20px;
+  box-sizing: content-box;
+  min-width: 300px;
+  width: max(300px, 40%);
 
   .buttons-wrapper {
     column-gap: 20px;
