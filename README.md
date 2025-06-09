@@ -46,5 +46,3 @@ Clock/
 If you have any questions, feel free to contact me:
 
 - Email: [malinowski.konrad45@gmail.com](malinowski.konrad45@gmail.com)
-
----
