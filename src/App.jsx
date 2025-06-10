@@ -96,7 +96,7 @@ export default function App() {
         }}
         className={!selectedTool ? 'hidden' : undefined}
       >
-        &lt;
+        ↶
       </Button>
       <div id="menu">
         {selectedTool === 'stopwatch' ? (
