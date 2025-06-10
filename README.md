@@ -1,6 +1,7 @@
 # 🕒 Clock
 
 A minimalist clock application built using React and Vite. This project demonstrates how to quickly and efficiently build interactive web applications using modern tools.
+<br>
 
 ## Technologies
 
@@ -8,6 +9,8 @@ A minimalist clock application built using React and Vite. This project demonstr
 - [Vite](https://vitejs.dev/) – A fast bundler and development server  
 - [ESLint](https://eslint.org/) – A tool for static code analysis  
 - [JavaScript](https://developer.mozilla.org/en-US/docs/Web/JavaScript)  
+
+<br>
 
 ## Getting Started
 
@@ -27,6 +30,8 @@ npm run dev
 
 The application will be available at: [http://localhost:5173](http://localhost:5173)
 
+<br>
+
 ## Project Structure
 
 ```
@@ -40,6 +45,14 @@ Clock/
 └── README.md           # Project documentation
 ```
 
+## Screenshots
+![image](https://github.com/user-attachments/assets/f506d795-9cd8-4f2e-b97b-17de7343035b)
+![image](https://github.com/user-attachments/assets/e4482a94-d862-4487-835f-899f6f22f6f2)
+
+
+
+
+<br>
 
 ## Contact
 
