@@ -46,8 +46,10 @@ Clock/
 ```
 
 ## Screenshots
-![image](https://github.com/user-attachments/assets/f506d795-9cd8-4f2e-b97b-17de7343035b)
-![image](https://github.com/user-attachments/assets/e4482a94-d862-4487-835f-899f6f22f6f2)
+![image](https://github.com/user-attachments/assets/7efae775-43b2-4477-8ce1-a72bb511c8ab)
+![image](https://github.com/user-attachments/assets/8ec760d6-11b0-4688-a745-a32599948187)
+![image](https://github.com/user-attachments/assets/e50ea59f-b06e-430b-bac2-b8c0bd9dfa42)
+
 
 
 
