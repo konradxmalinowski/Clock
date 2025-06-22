@@ -1,8 +1,5 @@
 # 🕒 Clock
 
-A minimalist clock application built using React and Vite. This project demonstrates how to quickly and efficiently build interactive web applications using modern tools.
-<br>
-
 ## Technologies
 
 - [React](https://reactjs.org/) – A library for building user interfaces  
